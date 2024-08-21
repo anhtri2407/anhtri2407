@@ -1,6 +1,6 @@
 ### Greetings! 🥳 Welcome to my GitHub profile.
 
-#### 😤 I am currently engaged in the pursuit of Cyber Security career!
+#### 😤 I am currently engaged in the pursuit of IT career!
 
 <!--
 **anhtri2407/anhtri2407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
